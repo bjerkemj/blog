@@ -20,7 +20,11 @@ export default function NavBar() {
         </div>
 
         <div className="right">
-        <i className="searchIcon fa-solid fa-magnifying-glass"></i>
+          <img 
+            className='img'
+            src={require('../images/myFace.png')}
+            alt=""/>
+          <i className="searchIcon fa-solid fa-magnifying-glass"></i>
         </div>
     </div>
   )
