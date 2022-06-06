@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/blog/static/css/main.bc8d7d73.css",
-    "main.js": "/blog/static/js/main.7582eec0.js",
+    "main.css": "/blog/static/css/main.90215ca2.css",
+    "main.js": "/blog/static/js/main.12c7c137.js",
     "static/media/strandaMountains.JPG": "/blog/static/media/strandaMountains.fc84b46fcb46bb17c1f5.JPG",
+    "static/media/aboutMePic.png": "/blog/static/media/aboutMePic.c480a93d6a4a8050ccf2.png",
     "static/media/myFace.png": "/blog/static/media/myFace.8ea2869d954642ce649d.png",
     "index.html": "/blog/index.html",
-    "main.bc8d7d73.css.map": "/blog/static/css/main.bc8d7d73.css.map",
-    "main.7582eec0.js.map": "/blog/static/js/main.7582eec0.js.map"
+    "main.90215ca2.css.map": "/blog/static/css/main.90215ca2.css.map",
+    "main.12c7c137.js.map": "/blog/static/js/main.12c7c137.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc8d7d73.css",
-    "static/js/main.7582eec0.js"
+    "static/css/main.90215ca2.css",
+    "static/js/main.12c7c137.js"
   ]
 }
